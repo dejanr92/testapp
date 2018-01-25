@@ -1,0 +1,22 @@
+body{
+	font-size: 14px;
+}
+.form-container{
+	margin-top:100px;
+	width:40%;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+.form-container input{
+	margin: 10px 0px 10px 5px;
+}
+.courses-container{
+	width:40%;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:100px;
+}
+.customtext{
+	margin-top:50px;
+}
