@@ -26,6 +26,9 @@ else{
 				$_SESSION['studentid']=$row['id'];
 				header("Location: index.php");
 			}
+			else{
+				echo "Invalid password! Go <a href='index.php'>back</a> and try again";
+			}
 		}
 
 	}
